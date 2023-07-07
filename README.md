@@ -1,2 +1,4 @@
 # Amazon_clone_project
-It is just a static website
+My first website.
+It is just a static website.
+html and css.
