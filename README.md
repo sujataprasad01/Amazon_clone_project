@@ -1,5 +1,5 @@
 # Amazon_clone_project
-My first website.
+My first project.
 
 It is just a static website.
 
