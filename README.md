@@ -1,4 +1,4 @@
-# Amazon_clone_project
+# Amazon-clone
 My first project.
 
 It is just a static website.
